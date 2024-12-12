@@ -10,24 +10,6 @@ func main() {
 		fmt.Print("Number in words: ")
 	if n == 0 {
 		fmt.Print("zero")
-	} else if n == 1 {
-		fmt.Print("one")
-	} else if n == 2 {
-		fmt.Print("two")
-	} else if n == 3 {
-		fmt.Print("three")
-	} else if n == 4 {
-		fmt.Print("four")
-	} else if n == 5 {
-		fmt.Print("five")
-	} else if n == 6 {
-		fmt.Print("six")
-	} else if n == 7 {
-		fmt.Print("seven")
-	} else if n == 8 {
-		fmt.Print("eight")
-	} else if n == 9 {
-		fmt.Print("nine")
 	} else if n == 10 {
 		fmt.Print("ten")
 	} else if n == 11 {
